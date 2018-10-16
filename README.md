@@ -2,6 +2,9 @@
 
 ## week1
 ### * [圖片超聯結](https://s0227373691.github.io/1071-ststicweb/w01/intro.html)
+```
+加入一張圖片當背景，用CSS做一些字體上的美化
+```
 
 ## week2
 ### * [表格](https://s0227373691.github.io/1071-ststicweb/w02/pokemon.html)
@@ -19,6 +22,6 @@
 ```
 ### * [表單](https://s0227373691.github.io/1071-ststicweb/w04/Form.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgxNjQ2NjM3LDEyODQwNzI5MjAsNDk1Mj
-IwNzYsLTE3ODE3ODQ4NzJdfQ==
+eyJoaXN0b3J5IjpbMjAyODI2MDM1OCwxMjg0MDcyOTIwLDQ5NT
+IyMDc2LC0xNzgxNzg0ODcyXX0=
 -->
