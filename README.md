@@ -15,10 +15,10 @@
 ### * [動態表格](https://s0227373691.github.io/1071-ststicweb/w04/ttt.html)
 ### * [文章](https://s0227373691.github.io/1071-ststicweb/w04/blog.html)
 ```
-目
+加入了一張圖片當背景以及固定圖片，讓背景不會跟著滾輪一起移動
 ```
 ### * [表單](https://s0227373691.github.io/1071-ststicweb/w04/Form.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxODY5NTM5NCwxMjg0MDcyOTIwLDQ5NT
-IyMDc2LC0xNzgxNzg0ODcyXX0=
+eyJoaXN0b3J5IjpbNDgxNjQ2NjM3LDEyODQwNzI5MjAsNDk1Mj
+IwNzYsLTE3ODE3ODQ4NzJdfQ==
 -->
