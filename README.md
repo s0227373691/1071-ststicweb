@@ -1,10 +1,10 @@
 # 1071-ststicweb
 
 ## week1
-* [intro.html](http://127.0.0.1:1154/w04/ttt.html)
+* [intro.html](https://s0227373691.github.io/1071-ststicweb/w01/intro.html)
 
 ## week2
-* pokemon.html
+* [pokemon.html](https://s0227373691.github.io/1071-ststicweb/w02/pokemon.html
 * Curriculum.html
 
 ## week3
@@ -16,5 +16,5 @@
 * blog.html
 * form.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODk1NzIyOTFdfQ==
+eyJoaXN0b3J5IjpbLTI1NzgzMDk1N119
 -->
