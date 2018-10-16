@@ -5,20 +5,17 @@
 
 ## week2
 ### * [pokemon.html](https://s0227373691.github.io/1071-ststicweb/w02/pokemon.html)
-```
-
-
-```
-* [Curriculum.html](https://s0227373691.github.io/1071-ststicweb/w02/Curriculum.html)
+### * [Curriculum.html](https://s0227373691.github.io/1071-ststicweb/w02/Curriculum.html)
 
 ## week3
-* [tku60.html](https://s0227373691.github.io/1071-ststicweb/w03/tku60.html)
-* [div.html](https://s0227373691.github.io/1071-ststicweb/w03/div.html)
+### * [tku60.html](https://s0227373691.github.io/1071-ststicweb/w03/tku60.html)
+### * [div.html](https://s0227373691.github.io/1071-ststicweb/w03/div.html)
 
 ## week4
-* [ttt.html](https://s0227373691.github.io/1071-ststicweb/w04/ttt.html)
-* [blog.html](https://s0227373691.github.io/1071-ststicweb/w04/blog.html)
-* [form.html](https://s0227373691.github.io/1071-ststicweb/w04/Form.html)
+### * [ttt.html](https://s0227373691.github.io/1071-ststicweb/w04/ttt.html)
+### * [blog.html](https://s0227373691.github.io/1071-ststicweb/w04/blog.html)
+### * [form.html](https://s0227373691.github.io/1071-ststicweb/w04/Form.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk1MjIwNzYsLTE3ODE3ODQ4NzJdfQ==
+eyJoaXN0b3J5IjpbMTI4NDA3MjkyMCw0OTUyMjA3NiwtMTc4MT
+c4NDg3Ml19
 -->
