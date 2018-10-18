@@ -1,0 +1,26 @@
+body {
+	background: #ddeacb;
+	
+	
+}
+
+table{
+	background-color: #efea69;
+	font:2em sans-serif,微軟正黑體;
+	text-align: center;
+	
+}
+
+td{
+	width: 200px;
+}
+
+.types{
+	font: 1.2em fantasy;
+	color: #0044fd;
+	background-color: #75ffca;
+}
+
+img {
+	width: 450px;
+}
