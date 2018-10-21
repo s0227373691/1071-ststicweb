@@ -9,8 +9,8 @@
 
 
 ## week2
-### * [表格](https://s0227373691.github.io/1071-ststicweb/w02/One%20Piece.html)
-
+### [表格](https://s0227373691.github.io/1071-ststicweb/w02/One%20Piece.html)
+* 圖片使用gif讓
 
 ### * [課表](https://s0227373691.github.io/1071-ststicweb/w02/Curriculum.html)
 
@@ -30,7 +30,7 @@
 ###  * [相簿](https://s0227373691.github.io/1071-ststicweb/w05-web/imagegallery.html)
 ###  * [寵物窩](https://s0227373691.github.io/1071-ststicweb/w05-pet/pet%20Web.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MzU5ODkwNiwtMTA0NDIxOTcxOSwtMT
+eyJoaXN0b3J5IjpbLTcxOTY3MjY0NSwtMTA0NDIxOTcxOSwtMT
 I0MDYzNzA4MSwtNDMyODY2MjE5LDkzNDM2NDIzOCwtMjgyNzcy
 MTA0LDIwMjgyNjAzNTgsMTI4NDA3MjkyMCw0OTUyMjA3NiwtMT
 c4MTc4NDg3Ml19
