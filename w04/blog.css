@@ -1,31 +1,44 @@
-body{
-    width: 80%;
-    margin: 20px auto;
-    padding: 20px;
-    font-family: 'source sanspro',sans-serif;
-    max-width: 700px;
-    font-size: 19px;
+body {
+	width: 80%;
+	margin: 20px auto;
+	padding: 20px;
+	font-family: 'source sanspro', sans-serif;
+	max-width: 700px;
+	font-size: 19px;
+	color: rgb(165, 135, 55);
 	background-attachment: fixed;
+	text-align: bottom;
+	background-image: url(https://scontent.ftpe8-1.fna.fbcdn.net/v/t1.0-9/42920478_1918952698197221_548570579007963136_o.jpg?_nc_cat=106&_nc_ht=scontent.ftpe8-1.fna&oh=9204c19027a72dc50d9ad1ec1c7fe419&oe=5C502EF0 );
+		background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
 	
 }
-.post{
+}
+
+.post {
 	color: aliceblue;
 }
-h2{
-    font-size: 2.0rem;
+
+h2 {
+	font-size: 2.0rem;
 }
-.quote{
-    border-left: 5px solid #bdc3c7;
-    padding-left: 5px;
+
+.quote {
+	border-left: 5px solid #bdc3c7;
+	padding-left: 5px;
 }
-.date{
-    color: rgb(134, 126, 237);
+
+.date {
+	color: rgb(252, 136, 0);
 	font-size: 25px;
 	font-style: oblique;
-    text-transform: uppercase;
-    letter-spacing: 0.2rem;
+	text-transform: uppercase;
+	letter-spacing: 0.2rem;
 }
-hr{
-  border-top:1px solid rgba(0,0,0,0.1);
-  border-bottom: (255,255,255,01);
+
+hr {
+	border-top: 1px solid rgba(0, 0, 0, 0.1);
+	border-bottom: (255, 255, 255, 01);
 }
