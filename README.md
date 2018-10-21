@@ -4,9 +4,11 @@
 ### * [圖片超聯結](https://s0227373691.github.io/1071-ststicweb/w01/intro.html)
 
 * 加入一張圖當背景
-並補充語法控制照片
+並補充語法控制背景圖片
 * 用CSS做一些字體上的美化
-* 製作一個超連結，浮標經過後有改變顏色
+在字體上做顏色漸層
+* 製作一個超連結
+浮標經過後有改變顏色
 
 
 ## week2
@@ -29,8 +31,8 @@
 ###  * [相簿](https://s0227373691.github.io/1071-ststicweb/w05-web/imagegallery.html)
 ###  * [寵物窩](https://s0227373691.github.io/1071-ststicweb/w05-pet/pet%20Web.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MjgzMjM1MCwtMTA0NDIxOTcxOSwtMT
-I0MDYzNzA4MSwtNDMyODY2MjE5LDkzNDM2NDIzOCwtMjgyNzcy
-MTA0LDIwMjgyNjAzNTgsMTI4NDA3MjkyMCw0OTUyMjA3NiwtMT
-c4MTc4NDg3Ml19
+eyJoaXN0b3J5IjpbOTMwNTMyMzIyLC0xMDQ0MjE5NzE5LC0xMj
+QwNjM3MDgxLC00MzI4NjYyMTksOTM0MzY0MjM4LC0yODI3NzIx
+MDQsMjAyODI2MDM1OCwxMjg0MDcyOTIwLDQ5NTIyMDc2LC0xNz
+gxNzg0ODcyXX0=
 -->
