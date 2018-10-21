@@ -22,7 +22,7 @@
 ## week4
 ### * [動態表格](https://s0227373691.github.io/1071-ststicweb/w04/ttt.html)
 * 加入標題圖片以及背景
-* 將動態表格加入按鈕
+* 將動態表格加入按鈕樣式
 ### * [文章](https://s0227373691.github.io/1071-ststicweb/w04/blog.html)
 * 加入了一張圖片當背景以及固定背景
 
@@ -32,8 +32,8 @@
 ###  * [相簿](https://s0227373691.github.io/1071-ststicweb/w05-web/imagegallery.html)
 ###  * [寵物窩](https://s0227373691.github.io/1071-ststicweb/w05-pet/pet%20Web.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTg4MDUzOSwxMzYxMDYwMjMwLDE0NT
-YyMzgzODQsLTEwNDQyMTk3MTksLTEyNDA2MzcwODEsLTQzMjg2
-NjIxOSw5MzQzNjQyMzgsLTI4Mjc3MjEwNCwyMDI4MjYwMzU4LD
-EyODQwNzI5MjAsNDk1MjIwNzYsLTE3ODE3ODQ4NzJdfQ==
+eyJoaXN0b3J5IjpbMjczMzY0NzYxLDEzNjEwNjAyMzAsMTQ1Nj
+IzODM4NCwtMTA0NDIxOTcxOSwtMTI0MDYzNzA4MSwtNDMyODY2
+MjE5LDkzNDM2NDIzOCwtMjgyNzcyMTA0LDIwMjgyNjAzNTgsMT
+I4NDA3MjkyMCw0OTUyMjA3NiwtMTc4MTc4NDg3Ml19
 -->
