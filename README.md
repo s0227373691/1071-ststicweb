@@ -13,6 +13,7 @@
 * 圖片使用gif ，使畫面更活潑
 
 ###  [課表](https://s0227373691.github.io/1071-ststicweb/w02/Curriculum.html)
+* 更改邊框樣式、字體
 
 ## week3
 ### * [淡江大戲](https://s0227373691.github.io/1071-ststicweb/w03/tku60.html)
@@ -22,7 +23,7 @@
 ### * [動態表格](https://s0227373691.github.io/1071-ststicweb/w04/ttt.html)
 ### * [文章](https://s0227373691.github.io/1071-ststicweb/w04/blog.html)
 ```
-加入了一張圖片當背景以及固定圖片，讓背景不會跟著滾輪一起移動
+加入了一張圖片當背景以及固定背景
 ```
 ### * [表單](https://s0227373691.github.io/1071-ststicweb/w04/Form.html)
 
@@ -30,8 +31,8 @@
 ###  * [相簿](https://s0227373691.github.io/1071-ststicweb/w05-web/imagegallery.html)
 ###  * [寵物窩](https://s0227373691.github.io/1071-ststicweb/w05-pet/pet%20Web.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NjIzODM4NCwtMTA0NDIxOTcxOSwtMT
-I0MDYzNzA4MSwtNDMyODY2MjE5LDkzNDM2NDIzOCwtMjgyNzcy
-MTA0LDIwMjgyNjAzNTgsMTI4NDA3MjkyMCw0OTUyMjA3NiwtMT
-c4MTc4NDg3Ml19
+eyJoaXN0b3J5IjpbLTEzMTY2OTM2NTgsMTQ1NjIzODM4NCwtMT
+A0NDIxOTcxOSwtMTI0MDYzNzA4MSwtNDMyODY2MjE5LDkzNDM2
+NDIzOCwtMjgyNzcyMTA0LDIwMjgyNjAzNTgsMTI4NDA3MjkyMC
+w0OTUyMjA3NiwtMTc4MTc4NDg3Ml19
 -->
