@@ -25,6 +25,7 @@
 * 將動態表格加入按鈕樣式
 ### * [文章](https://s0227373691.github.io/1071-ststicweb/w04/blog.html)
 * 加入了一張圖片當背景以及固定背景
+* 調整字體顏色
 
 ### * [表單](https://s0227373691.github.io/1071-ststicweb/w04/Form.html)
 
@@ -32,8 +33,9 @@
 ###  * [相簿](https://s0227373691.github.io/1071-ststicweb/w05-web/imagegallery.html)
 ###  * [寵物窩](https://s0227373691.github.io/1071-ststicweb/w05-pet/pet%20Web.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjczMzY0NzYxLDEzNjEwNjAyMzAsMTQ1Nj
-IzODM4NCwtMTA0NDIxOTcxOSwtMTI0MDYzNzA4MSwtNDMyODY2
-MjE5LDkzNDM2NDIzOCwtMjgyNzcyMTA0LDIwMjgyNjAzNTgsMT
-I4NDA3MjkyMCw0OTUyMjA3NiwtMTc4MTc4NDg3Ml19
+eyJoaXN0b3J5IjpbMTgyODcwMDAyOCwyNzMzNjQ3NjEsMTM2MT
+A2MDIzMCwxNDU2MjM4Mzg0LC0xMDQ0MjE5NzE5LC0xMjQwNjM3
+MDgxLC00MzI4NjYyMTksOTM0MzY0MjM4LC0yODI3NzIxMDQsMj
+AyODI2MDM1OCwxMjg0MDcyOTIwLDQ5NTIyMDc2LC0xNzgxNzg0
+ODcyXX0=
 -->
