@@ -4,7 +4,8 @@
 ### * [圖片超聯結](https://s0227373691.github.io/1071-ststicweb/w01/intro.html)
 ```
 加入一張圖片當背景
-* 用CSS做一些字體上的美化
+用CSS做一些字體上的美化
+
 ```
 
 ## week2
@@ -27,7 +28,8 @@
 ###  * [相簿](https://s0227373691.github.io/1071-ststicweb/w05-web/imagegallery.html)
 ###  * [寵物窩](https://s0227373691.github.io/1071-ststicweb/w05-pet/pet%20Web.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NDUxMzQzLC0xMjQwNjM3MDgxLC00Mz
-I4NjYyMTksOTM0MzY0MjM4LC0yODI3NzIxMDQsMjAyODI2MDM1
-OCwxMjg0MDcyOTIwLDQ5NTIyMDc2LC0xNzgxNzg0ODcyXX0=
+eyJoaXN0b3J5IjpbLTEwNDQyMTk3MTksLTEyNDA2MzcwODEsLT
+QzMjg2NjIxOSw5MzQzNjQyMzgsLTI4Mjc3MjEwNCwyMDI4MjYw
+MzU4LDEyODQwNzI5MjAsNDk1MjIwNzYsLTE3ODE3ODQ4NzJdfQ
+==
 -->
