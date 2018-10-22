@@ -18,7 +18,8 @@
 ## week3
 ### * [淡江大戲](https://s0227373691.github.io/1071-ststicweb/w03/tku60.html)
 ### * [區塊](https://s0227373691.github.io/1071-ststicweb/w03/div.html)
-* 
+* 利用cooltext做了一個字體放在標題
+* 右邊三個小區塊
 
 ## week4
 ### * [動態表格](https://s0227373691.github.io/1071-ststicweb/w04/ttt.html)
@@ -34,9 +35,9 @@
 ###  * [相簿](https://s0227373691.github.io/1071-ststicweb/w05-web/imagegallery.html)
 ###  * [寵物窩](https://s0227373691.github.io/1071-ststicweb/w05-pet/pet%20Web.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNjY4MzgyOCwxODI4NzAwMDI4LDI3Mz
-M2NDc2MSwxMzYxMDYwMjMwLDE0NTYyMzgzODQsLTEwNDQyMTk3
-MTksLTEyNDA2MzcwODEsLTQzMjg2NjIxOSw5MzQzNjQyMzgsLT
-I4Mjc3MjEwNCwyMDI4MjYwMzU4LDEyODQwNzI5MjAsNDk1MjIw
-NzYsLTE3ODE3ODQ4NzJdfQ==
+eyJoaXN0b3J5IjpbLTEwMjM3NTIyNzQsMTgyODcwMDAyOCwyNz
+MzNjQ3NjEsMTM2MTA2MDIzMCwxNDU2MjM4Mzg0LC0xMDQ0MjE5
+NzE5LC0xMjQwNjM3MDgxLC00MzI4NjYyMTksOTM0MzY0MjM4LC
+0yODI3NzIxMDQsMjAyODI2MDM1OCwxMjg0MDcyOTIwLDQ5NTIy
+MDc2LC0xNzgxNzg0ODcyXX0=
 -->
