@@ -21,7 +21,7 @@
 * 利用cooltext做了一個字體放在標題
 * 右邊三個小區塊，浮標經過型態會改變(改變的型態用背景製造器製作的)
 * 在article區塊放了tabindex屬性以及focus
-* 
+
 
 ## week4
 ### * [動態表格](https://s0227373691.github.io/1071-ststicweb/w04/ttt.html)
@@ -37,9 +37,9 @@
 ###  * [相簿](https://s0227373691.github.io/1071-ststicweb/w05-web/imagegallery.html)
 ###  * [寵物窩](https://s0227373691.github.io/1071-ststicweb/w05-pet/pet%20Web.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgzNDgyNjE0LDE4Mjg3MDAwMjgsMjczMz
-Y0NzYxLDEzNjEwNjAyMzAsMTQ1NjIzODM4NCwtMTA0NDIxOTcx
-OSwtMTI0MDYzNzA4MSwtNDMyODY2MjE5LDkzNDM2NDIzOCwtMj
-gyNzcyMTA0LDIwMjgyNjAzNTgsMTI4NDA3MjkyMCw0OTUyMjA3
-NiwtMTc4MTc4NDg3Ml19
+eyJoaXN0b3J5IjpbLTUzNTA2ODMwOCwxODI4NzAwMDI4LDI3Mz
+M2NDc2MSwxMzYxMDYwMjMwLDE0NTYyMzgzODQsLTEwNDQyMTk3
+MTksLTEyNDA2MzcwODEsLTQzMjg2NjIxOSw5MzQzNjQyMzgsLT
+I4Mjc3MjEwNCwyMDI4MjYwMzU4LDEyODQwNzI5MjAsNDk1MjIw
+NzYsLTE3ODE3ODQ4NzJdfQ==
 -->
