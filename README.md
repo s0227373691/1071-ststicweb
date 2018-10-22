@@ -19,7 +19,8 @@
 ### * [淡江大戲](https://s0227373691.github.io/1071-ststicweb/w03/tku60.html)
 ### * [區塊](https://s0227373691.github.io/1071-ststicweb/w03/div.html)
 * 利用cooltext做了一個字體放在標題
-* 右邊三個小區塊
+* 右邊三個小區塊，浮標經過型態會改變
+* 在article區塊放了in
 
 ## week4
 ### * [動態表格](https://s0227373691.github.io/1071-ststicweb/w04/ttt.html)
@@ -35,7 +36,7 @@
 ###  * [相簿](https://s0227373691.github.io/1071-ststicweb/w05-web/imagegallery.html)
 ###  * [寵物窩](https://s0227373691.github.io/1071-ststicweb/w05-pet/pet%20Web.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjM3NTIyNzQsMTgyODcwMDAyOCwyNz
+eyJoaXN0b3J5IjpbLTIwMjA2MDM5MDUsMTgyODcwMDAyOCwyNz
 MzNjQ3NjEsMTM2MTA2MDIzMCwxNDU2MjM4Mzg0LC0xMDQ0MjE5
 NzE5LC0xMjQwNjM3MDgxLC00MzI4NjYyMTksOTM0MzY0MjM4LC
 0yODI3NzIxMDQsMjAyODI2MDM1OCwxMjg0MDcyOTIwLDQ5NTIy
