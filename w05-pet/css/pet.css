@@ -3,34 +3,54 @@ body{
     background-image: url(../images/bg.jpg);
 }
 
+<<<<<<< HEAD
 #pet header{
+=======
+header{
+>>>>>>> 6b7201c26be86179cd687b1c1bb2e63061300436
     width: 800px;
     height: 80px;
     background-color: black
 }
 
+<<<<<<< HEAD
 #pet h1#text1{
+=======
+h1#text1{
+>>>>>>> 6b7201c26be86179cd687b1c1bb2e63061300436
     position: absolute;
     color: crimson;
     margin-top: 15px;
     margin-left: 50px;
 }
 
+<<<<<<< HEAD
 #pet h1#text2{
+=======
+h1#text2{
+>>>>>>> 6b7201c26be86179cd687b1c1bb2e63061300436
     position: absolute;
     color: #ffffff;
     margin-top: 30px;
     margin-left: 150px;
 }
 
+<<<<<<< HEAD
 #pet aside{
+=======
+aside{
+>>>>>>> 6b7201c26be86179cd687b1c1bb2e63061300436
     width: 170px;
     height: 400px;
     background:url(../images/bg_lt.png);
     float: left;
 }
 
+<<<<<<< HEAD
 #pet article{
+=======
+article{
+>>>>>>> 6b7201c26be86179cd687b1c1bb2e63061300436
     width: 628px;
     height: 400px;
     background-color: beige;
@@ -39,22 +59,38 @@ body{
 
 
 
+<<<<<<< HEAD
 #pet fieldset{
     border-radius: 10px;
 }
 
 #pet fieldset legend{
+=======
+fieldset{
+    border-radius: 10px;
+}
+
+fieldset legend{
+>>>>>>> 6b7201c26be86179cd687b1c1bb2e63061300436
     margin: 0px auto;
     text-align: center;
 }
 
+<<<<<<< HEAD
 #pet img{
+=======
+img{
+>>>>>>> 6b7201c26be86179cd687b1c1bb2e63061300436
     width: 120px;
     border-radius: 12px;
     margin: 3px;
 }
 
+<<<<<<< HEAD
 #pet footer{
+=======
+footer{
+>>>>>>> 6b7201c26be86179cd687b1c1bb2e63061300436
     width: 800px;
     height:50px;
     background-color: #000000;
@@ -63,16 +99,28 @@ body{
     line-height: 50px;
 }
 
+<<<<<<< HEAD
 #pet nav{
     margin-top: 170px;
 }
 
 #pet nav ul{
+=======
+nav{
+    margin-top: 170px;
+}
+
+nav ul{
+>>>>>>> 6b7201c26be86179cd687b1c1bb2e63061300436
     list-style: none;
     padding: 10px;
 }
 
+<<<<<<< HEAD
 #pet nav ul li a{
+=======
+nav ul li a{
+>>>>>>> 6b7201c26be86179cd687b1c1bb2e63061300436
     display: block;
     width: 150px;
     height: 42px;
@@ -81,13 +129,21 @@ body{
     line-height: 35px;
 }
 
+<<<<<<< HEAD
 #pet nav ul li a:hover{
+=======
+nav ul li a:hover{
+>>>>>>> 6b7201c26be86179cd687b1c1bb2e63061300436
     background-image: url(../images/btn_hover.png);
     color: white;
     
 }
 
+<<<<<<< HEAD
 #pet .consection{
+=======
+.consection{
+>>>>>>> 6b7201c26be86179cd687b1c1bb2e63061300436
     width: 400px;
     margin: 0px auto;
     padding: 20px;
