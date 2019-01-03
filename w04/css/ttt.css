@@ -31,7 +31,7 @@ body {
 			background-image:url(https://images7.alphacoders.com/864/864471.jpg);
 			background-repeat: no-repeat;
 			background-attachment: fixed;
-			background-position:center;
+			background-position:top;
 			background-size: cover;
 			
 		}
@@ -333,3 +333,4 @@ body {
     background: -moz-linear-gradient(top, #ac730b, #ac730b);
     background: linear-gradient(to bottom, #ac730b, #ac730b);
 }
+
